@@ -132,7 +132,7 @@ cd local-meetup-rsvp
 Run:
 
 ```bash
-docker compose up --build
+docker compose up 
 ```
 
 Docker Compose starts:
